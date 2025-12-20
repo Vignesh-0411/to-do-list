@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do-List</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="icon" href="images/logo.png">
+</head>
+<body>
+    <div class="card">
+    <input id="input" placeholder="Enter A Task">
+    <button class="button" onclick="add()">Add Task</button>
+    <ol id="list">
+    <li>Hello<button class="button" onclick="deleteitem(event)">Delete</button></li>
+    </ol>
+    </div>
+</body>
+
+<script>
+    var ul= document.getElementById("list")
+    var input = document.getElementById("input")
+    function add(){
+        if(input.value != ''){
+        var listitem = document.createElement("li")
+        listitem.innerHTML = input.value + "<button class='button' onclick='deleteitem(event)'>Delete</button>" 
+        ul.append(listitem)
+        input.value = ''
+        }
+        else{
+            alert("Please Enter A Task")
+            return;
+        }
+    }
+    function deleteitem(event){
+        event.target.parentElement.remove()
+    }
+</script>
+</html>
