@@ -1,6 +1,6 @@
 ✅ To-Do List
 
-A Simple, Responsive, And Interactive To-Do List Web Application Built Using HTML, CSS, And JavaScript. This Project Helps Users Organize And Manage Their Daily Tasks Efficiently.
+A Simple, Responsive, And Interactive To-Do List Web Application Built Using HTML, CSS. This Project Helps Users Organize And Manage Their Daily Tasks Efficiently.
 
 🚀 Live Demo
 
@@ -17,8 +17,7 @@ A Simple, Responsive, And Interactive To-Do List Web Application Built Using HTM
 🛠️ Technologies Used
 
 - HTML5 – Structure Of The Application
-- CSS3 – Styling, Layout, And Responsive Design
-- JavaScript – Task Management And Interactivity
+- CSS3 – Styling, Layout, And Responsive Design
 
 📂 Project Structure
 
@@ -34,9 +33,7 @@ To-Do-List/
 📚 What I Learned
 
 - Creating Web Layouts Using HTML
-- Styling Forms, Buttons, And Task Lists With CSS
-- Using JavaScript To Handle User Interactions
-- Working With DOM Manipulation
+- Styling Forms, Buttons, And Task Lists With CSS
 - Managing Task States
 - Building A Responsive Web Application
 
