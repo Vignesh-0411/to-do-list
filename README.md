@@ -27,7 +27,6 @@ To-Do-List/
 │
 ├── Index.html
 ├── Style.css
-├── Script.js
 └── Images/
     └── Todolist.png
 ```
