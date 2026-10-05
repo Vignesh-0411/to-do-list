@@ -4,7 +4,7 @@ A Simple, Responsive, And Interactive To-Do List Web Application Built Using HTM
 
 🚀 Live Demo
 
-[View Live To-Do List](https://vignesh-0411.github.io/to-do-list/)
+[View Project](https://vignesh-0411.github.io/to-do-list/)
 
 ✨ Features
 
@@ -17,7 +17,8 @@ A Simple, Responsive, And Interactive To-Do List Web Application Built Using HTM
 🛠️ Technologies Used
 
 - HTML5 – Structure Of The Application
-- CSS3 – Styling, Layout, And Responsive Design
+- CSS3 – Styling, Layout, And Responsive Design
+
 
 📂 Project Structure
 
@@ -33,7 +34,9 @@ To-Do-List/
 📚 What I Learned
 
 - Creating Web Layouts Using HTML
-- Styling Forms, Buttons, And Task Lists With CSS
+- Styling Forms, Buttons, And Task Lists With CSS
+
+
 - Managing Task States
 - Building A Responsive Web Application
 
